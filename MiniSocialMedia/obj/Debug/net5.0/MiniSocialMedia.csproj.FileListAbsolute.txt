@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\MiniSocialMedia.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\MiniSocialMedia.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\MiniSocialMedia.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\MiniSocialMedia.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\MiniSocialMedia.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\ref\MiniSocialMedia.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\bin\Debug\net5.0\MiniSocialMedia.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\ref\MiniSocialMedia.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\MiniSocialMedia\MiniSocialMedia\obj\Debug\net5.0\MiniSocialMedia.genruntimeconfig.cache
